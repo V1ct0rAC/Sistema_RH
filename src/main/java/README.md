@@ -1,3 +1,5 @@
+Ações que realizei no main para treinar. 
+
 1. Filtro e Transformação: Crie uma lista contendo apenas os nomes dos funcionários 
 do departamento de "TI" que ganham mais de 6000.0.
 
